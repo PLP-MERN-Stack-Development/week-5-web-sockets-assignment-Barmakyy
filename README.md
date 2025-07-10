@@ -1,4 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19904509&assignment_repo_type=AssignmentRepo)
+
 # Real-Time Chat Application with Socket.io
 
 This assignment focuses on building a real-time chat application using Socket.io, implementing bidirectional communication between clients and server.
@@ -6,6 +7,7 @@ This assignment focuses on building a real-time chat application using Socket.io
 ## Assignment Overview
 
 You will build a chat application with the following features:
+
 1. Real-time messaging using Socket.io
 2. User authentication and presence
 3. Multiple chat rooms or private messaging
@@ -75,4 +77,4 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Socket.io Documentation](https://socket.io/docs/v4/)
 - [React Documentation](https://react.dev/)
 - [Express.js Documentation](https://expressjs.com/)
-- [Building a Chat Application with Socket.io](https://socket.io/get-started/chat) 
+- [Building a Chat Application with Socket.io](https://socket.io/get-started/chat)
