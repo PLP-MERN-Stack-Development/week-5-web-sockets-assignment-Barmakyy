@@ -42,8 +42,7 @@ coverage/
 .sass-cache/
 .cache/
 
-# Screenshots and media (optional, if you don't want to track them)
-client/screenshots/
+
 
 # Optional: Ignore local development files
 *.local 
